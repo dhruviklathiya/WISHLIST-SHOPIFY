@@ -3,7 +3,7 @@
 client_id = "e0b55d7b0f55acf6efad3dfb484ec9c9"
 name = "first-task"
 handle = "first-task-1"
-application_url = "https://nut-married-contains-individually.trycloudflare.com"
+application_url = "https://she-clearly-surprising-shopping.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://nut-married-contains-individually.trycloudflare.com/auth/callback",
-  "https://nut-married-contains-individually.trycloudflare.com/auth/shopify/callback",
-  "https://nut-married-contains-individually.trycloudflare.com/api/auth/callback"
+  "https://she-clearly-surprising-shopping.trycloudflare.com/auth/callback",
+  "https://she-clearly-surprising-shopping.trycloudflare.com/auth/shopify/callback",
+  "https://she-clearly-surprising-shopping.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
