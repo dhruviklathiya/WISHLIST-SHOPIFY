@@ -3,7 +3,7 @@
 client_id = "e0b55d7b0f55acf6efad3dfb484ec9c9"
 name = "first-task"
 handle = "first-task-1"
-application_url = "https://supplies-ensemble-airlines-andrews.trycloudflare.com"
+application_url = "https://vacuum-luis-while-browsers.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://supplies-ensemble-airlines-andrews.trycloudflare.com/auth/callback",
-  "https://supplies-ensemble-airlines-andrews.trycloudflare.com/auth/shopify/callback",
-  "https://supplies-ensemble-airlines-andrews.trycloudflare.com/api/auth/callback"
+  "https://vacuum-luis-while-browsers.trycloudflare.com/auth/callback",
+  "https://vacuum-luis-while-browsers.trycloudflare.com/auth/shopify/callback",
+  "https://vacuum-luis-while-browsers.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
